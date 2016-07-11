@@ -10,3 +10,17 @@ As per Cory House's Pluralsight Course "[Building Application with React and Red
 * JSX compilation
 * ES6 transpilation
 ... all from one command
+
+### Additional Tools and Libraries
+* babel
+* babel-polyfill
+* webpack
+* mocha
+* eslint
+
+### Versions
+* React 15.0.2
+* Redux 3.5.2
+* React Router 2.4.0
+* Webpack 1.1.3
+* Babel 6.*
