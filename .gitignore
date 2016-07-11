@@ -4,6 +4,9 @@
 # Anything WebStorm-specific:
 .idea/
 
+# node_modules
+node_modules
+
 ## File-based project format:
 *.iws
 
